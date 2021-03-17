@@ -1,0 +1,6 @@
+<resources>
+    <string name="chkPepperoni">Pepperoni</string>
+    <string name="chkExtraCheese">Extra Cheese</string>
+    <string name="btnShow">Show</string>
+    <string name="Button1Click">onButtonClick</string>
+</resources>
